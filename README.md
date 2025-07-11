@@ -15,4 +15,4 @@ This project is a basic HTML and CSS website that celebrates the life, achieveme
 
 
 ### Live Demo
-https://msd-tributepage.vercel.app/
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Vercel-blue?style=for-the-badge&logo=vercel)](https://msd-tributepage.vercel.app/)
